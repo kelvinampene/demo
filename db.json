@@ -242,40 +242,7 @@
       "market_cap": 520290,
       "giveup_percent": 0
     },
-    {
-      "cash_percent": 81,
-      "hydra_dof": 680,
-      "synthetic_percent": 19,
-      "market_country": "Malaysia",
-      "region": "ASIA",
-      "market_id": 23,
-      "classification": "Emerging",
-      "market_cap": 398390,
-      "giveup_percent": 0
-    },
-    {
-      "cash_percent": 40,
-      "hydra_dof": 36180,
-      "synthetic_percent": 60,
-      "market_country": "Mexico",
-      "region": "AMERICAS",
-      "market_id": 24,
-      "classification": "Latin",
-      "market_cap": 390070,
-      "giveup_percent": 0
-    },
-    {
-      "cash_percent": 98,
-      "hydra_dof": 0,
-      "synthetic_percent": 2,
-      "market_country": "Philippines",
-      "region": "ASIA",
-      "market_id": 25,
-      "classification": "Emerging",
-      "market_cap": 281320,
-      "giveup_percent": 0
-    },
-    {
+     {
       "cash_percent": 53,
       "hydra_dof": 153879,
       "synthetic_percent": 21,
